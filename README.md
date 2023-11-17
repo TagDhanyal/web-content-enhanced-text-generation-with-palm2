@@ -28,7 +28,7 @@ To run the project using Docker, follow these steps:
 1. Clone the project repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/TagDhanyal/web-content-enhanced-text-generation-with-palm2
 2. Navigate to the project directory:
     ```bash
     cd web-content-enhanced-text-generation-with-palm2
